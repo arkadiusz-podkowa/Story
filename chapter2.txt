@@ -1,1 +1,1 @@
-This is the second chapter of this brilliant git exercise.
+This is the second chapter of this brilliant git exercise. Here we add some text.
